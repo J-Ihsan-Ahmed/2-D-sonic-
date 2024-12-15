@@ -2,6 +2,8 @@
 
 A simple platformer game where the player controls Sonic (or a character of your choice), dodging obstacles and collecting points while avoiding collision with moving obstacles.
 
+![Screenshot 2024-12-15 182251](https://github.com/user-attachments/assets/9904b519-fe37-482a-8e23-5a557a744bff)
+
 ## Features:
 - **Double Jump**: The player can perform a double jump in the air.
 - **Scrolling Background**: The background scrolls to create a dynamic running environment.
